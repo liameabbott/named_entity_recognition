@@ -1,0 +1,147 @@
+'Abdallah,Abdallah
+ abu, Abu
+ Abu , Abu-
+(Abu ,Abu-
+ al, Al
+ Al , Al-
+(Al ,Al-
+Americaleg,America
+Jihadi,Jihadist
+Jihadis,Jihadist
+Jihadists,Jihadist
+Eastwhen,East when
+Godfaithfully,God
+Godly,God
+PAKISTAN,Pakistan
+Pakistanwhy,Pakistan
+Paktia,Paktika
+Shari'a,Sharia
+Shayka,Shaykh
+United States,America
+USA,America
+U.S.A.,America
+U.S.A,America
+U.S.,America
+U.S,America
+US,America
+ Bin , Bin-
+ Ibn , Ibn-
+Iranians,Iranian
+Iraqis,Iraqi
+Islamists,Islamist
+Israelis,Israeli
+Muslim,Muslims
+non-Arabs,non-Arab
+non-Muslims,non-Muslim
+Pakistanis,Pakistani
+Palestinians,Palestinian
+Pashtuns,Pashtun
+Persians,Persian
+Qu'ran,Quran
+Rejectionists,Rejectionist
+Republicans,Republican
+Russians,Russian
+Salafists,Salafist
+Sa'ud,Saud
+Saudis,Saudi
+Shaykhs,Shaykh
+Shi'a,Shia
+Shiites,Shiite
+Somalis,Somali
+Sufis,Sufi
+Sunnis,Sunni
+The,the
+Tunisians,Tunisian
+Turks,Turk
+Urdu-,Urdu
+US-,America
+Uzbeks,Uzbek
+Western-,Western
+-Baghdadi, Baghdadi
+Zionists,Zionist
+Abu-Za'bAl-area,Abu-Za'bal
+Al-MAl,Al-Mal
+Al-QAly,Al-Qaly
+Al-SAl,Al-Sal
+AndAlusia,Andalusia
+AustrAlia,Australia
+BahawAlpur,Bahawalpur
+BAluchi,Baluchi
+BAluchistan,Baluchistan
+BBin-SAlul,Bin-Salul
+DiyAla,Diyala
+JAlAlabad,Jalalabad
+JerusAlem,Jerusalem
+KAbul,Kabul
+'A',A
+'Ab,Ab
+'Ad,Ad
+'Aisha,Aisha
+'Ali,Ali
+'Am,Am
+'An,An
+'Ar,Ar
+'As,As
+'At,At
+'Az,Az
+'Im,Im
+'Of,Of
+'Our,Our
+'Ub,Ub
+'Ul,Ul
+'Um,Um
+'Ur,Ur
+'Ut,Ut
+Al-Qa'ida,Al-Qaida
+al-Qa'ida,Al-Qaida
+Al-Qa'idah,Al-Qaida
+Al-Qaidah,Al-Qaida
+United Nations,UN
+HAMAS,Hamas
+Imams,Imam
+United Arab Emirates,UAE
+Tajiks,Tajik
+Muslimss,Muslims
+mujahidin,Mujahidin
+American,Americans
+Pakistani,Pakistanis
+Pakistanians,Pakistanis
+Sunni,Sunnis
+Iranian,Iranians
+Shia,Shias
+Shi'a,Shias
+Saudi Arabia,SaudiArabia
+Christian,Christians
+Russian,Russians
+Zionist,Zionists
+Iraqi,Iraqis
+Iranian,Iranians
+Egyptian,Egyptians
+Salafist,Salafists
+Afghani,Afghanis
+Afghan,Afghanis
+Yemeni,Yemenis
+Somali,Somalis
+Indian,Indians
+European,Europeans
+Ethiopian,Ethiopians
+Israeli,Israelis
+Uzbek,Uzbeks
+Persian,Persians
+Roman,Romans
+Hanafi,Hanafis
+African,Africans
+German,Germans
+Kuwaiti,Kuwaitis
+Jew,Jews
+Kurd,Kurds
+Hanibali,Hanibalis
+Shiite,Shiites
+Kenyan,Kenyans
+Libyan,Libyans
+Mauritanian,Mauritanians
+Qatari,Qataris
+Tunisian,Tunisians
+Americanss,Americans
+Jewss,Jews
+Afghanisisstan,Afghanistan
